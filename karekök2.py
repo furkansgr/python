@@ -1,5 +1,5 @@
 #-*- coding:utf-8 -*-
-#Karekök 2 sayısın bulunuşu.
+#Karekök 2 sayısının bulunuşu.
 from __future__ import division
 
 Z1 = 2+(1/2.4)
