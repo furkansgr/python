@@ -44,11 +44,11 @@ for i in range(satir1):
     for j in range(sutun2):
         for k in range(satir2):
            deger += matris1[i][k]*matris2[k][j]
-           sonuc[i][j] = deger
+        sonuc[i][j] = deger
         deger = 0
 
 for i in range(satir1):           
-    for j in range(sutun1):
+    for j in range(sutun2):
        print sonuc[i][j],
     print
 
